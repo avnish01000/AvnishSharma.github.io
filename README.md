@@ -1,10 +1,9 @@
 # Welcome to My Portfolio!
 
-Hi, I'm Avnish. I am a developer.
+Hi, I'm Avnish Sharma
 
 ## 🚀 My Projects
 * **Project 1** - A brief description of what it does.
-* **Project 2** - A brief description of what it does.
 
-## 📬 Contact Me
+## 📬 Contact Me: +91 8286287702
 * [GitHub](https://github.com)
